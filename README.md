@@ -3,5 +3,5 @@ En este repositorio trabajaremos el curso de programación para el semestre 2018
 El grupo esta conformado por:  
 Johan Andrés Cortés Pita  
 Brayan Jose Gonzalez  
-
+Nicolas Vanegas Doria
 >Autor - Johan Andrés Cortés Pita
